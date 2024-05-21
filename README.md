@@ -20,15 +20,13 @@
 
 </div>
 
-<div align="center">
 <details>
   <summary> ⭐ My Skill Set ⭐ </summary>
   <div markdown="1">
 
-  <div align="center">
-
-  ## ⭐My Skill Set⭐
 <div align="center">
+  
+  ## ⭐My Skill Set⭐
 
   </td><td valign="top">
 
@@ -60,13 +58,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact)
 
 </td></table>
+
+
+<br/>
+<br/>
 </div>
-
-<br/>
-
----
-
-<br/>
-
-   ### ⭐My certificate⭐
-   ##### 정보처리기능사
