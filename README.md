@@ -13,7 +13,6 @@
 <div align="center">
 
 ## ✅ My Site Link ✅
-<div align="center">
 
 <a href="https://blog.naver.com/abeul_dv" target="_blank"><img src="https://img.shields.io/badge/네이버 블로그-03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@abeul25/posts" target="_blank"><img src="https://img.shields.io/badge/벨로그-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a>
