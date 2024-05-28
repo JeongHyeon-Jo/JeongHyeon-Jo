@@ -32,6 +32,8 @@
 
   </td><td valign="top">
 
+  <br/>
+
 ### Language  
 <div align="center">  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
