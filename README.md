@@ -7,7 +7,7 @@
 |:---:|
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&theme=highcontrast)
 
-</div>
+</div> </div>
 
 
 <div align="center">
