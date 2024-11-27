@@ -16,7 +16,7 @@
 
 <a href="https://blog.naver.com/abeul_dv" target="_blank"><img src="https://img.shields.io/badge/네이버 블로그-03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@abeul25/posts" target="_blank"><img src="https://img.shields.io/badge/벨로그-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a>
-<a href="https://www.youtube.com/c/아블" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=flat&logo=youtube&logoColor=FFFFFF"/></a>
+<a href="https://www.youtube.com/@Abeul_" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=flat&logo=youtube&logoColor=FFFFFF"/></a>
 
 ---
 
