@@ -96,6 +96,7 @@
   ![alice logo](https://postfiles.pstatic.net/MjAyNDA2MjFfMjAx/MDAxNzE4OTY2NjU3OTcw.kGF5O8BL8RyVO-SpAdppAW8ZKMkOnxmivY52o0NHCWog.vko1D8yL0EHgnlQlEkC8l0MJQuqh3_cGWDwT2cj8Bk4g.PNG/%EC%97%98%EB%A6%AC%EC%8A%A4_300.png?type=w966)
   ### 엘리스트랙 Flutter 앱개발트랙
   ##### 2024-07-01 ~ 2024-12-09
+  ##### 최우수(1등) 수료
 
 ---
 
