@@ -1,11 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=timeGradient&text=Abeul's%20Github&section=header&textBg=false&fontSize=45&fontAlignY=40)
-
-  
-|⭐My Stats Card⭐|
-|:---:|
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&theme=highcontrast)
+<img src="https://postfiles.pstatic.net/MjAyNTA2MjRfMjc3/MDAxNzUwNzQ3MDcyNTYx.xIUl8K_NkwbttpfLEEHKFwKNeIJiAwaDZVqrHnLCdL4g.o44V9rOehgY7sFQ5fAY9Do7J7VFswyemzv72mde5H1Eg.PNG/%ED%97%A4%EB%8D%94.png?type=w966" width="800"/>
 
 </div> </div>
 
@@ -18,13 +13,10 @@
 <a href="https://velog.io/@abeul25/posts" target="_blank"><img src="https://img.shields.io/badge/벨로그-20C997?style=flat&logo=velog&logoColor=FFFFFF"/></a>
 <a href="https://www.youtube.com/@Abeul_" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=flat&logo=youtube&logoColor=FFFFFF"/></a>
 
----
 
 </div>
 
-<details>
-  <summary> ⭐ My Skill Set ⭐ </summary>
-  <div markdown="1">
+
 
 <div align="center">
   
@@ -77,8 +69,6 @@
 <br/>
 </div>
 </div>  
-</details>
-
 
 <details>
   <summary> ⭐ My Career ⭐ </summary>
