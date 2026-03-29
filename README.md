@@ -98,11 +98,6 @@ motto: "깔끔한 코드, 아름다운 UI"
 <div align="center">
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JeongHyeon-Jo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="700"/>
-
-<br/>
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=JeongHyeon-Jo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/>
