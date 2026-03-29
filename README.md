@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Flutter+%26+Mobile+App+Developer;Building+Beautiful+Experiences;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B+%EC%A1%B0%EC%A0%95%ED%98%84%EC%9E%85%EB%8B%88%EB%8B%A4;Flutter+%26+Mobile+App+Developer;%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4+%EC%95%B1%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://blog.naver.com/abeul_dv"><img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="https://velog.io/@abeul25/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://www.youtube.com/@Abeul_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://blog.naver.com/abeul_dv"><img src="https://img.shields.io/badge/네이버_블로그-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+<a href="https://velog.io/@abeul25/posts"><img src="https://img.shields.io/badge/벨로그-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+<a href="https://www.youtube.com/@Abeul_"><img src="https://img.shields.io/badge/유튜브-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </div>
 
@@ -23,10 +23,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: JeongHyeon Jo
+name: 조정현 (JeongHyeon Jo)
 role: Flutter & Mobile App Developer
-education: Elice Track Flutter App Development (Top Honors)
-motto: "Clean code, beautiful UI"
+education: 엘리스트랙 Flutter 앱개발 (최우수 수료)
+motto: "깔끔한 코드, 아름다운 UI"
 ```
 
 <br/>
@@ -35,7 +35,7 @@ motto: "Clean code, beautiful UI"
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 기술 스택
 
 <div align="center">
 
@@ -45,7 +45,7 @@ motto: "Clean code, beautiful UI"
 <tr>
 <td align="center" width="50%">
 
-### Core
+### 주력 기술
 
 <br/>
 
@@ -61,7 +61,7 @@ motto: "Clean code, beautiful UI"
 </td>
 <td align="center" width="50%">
 
-### Also Work With
+### 사용 가능
 
 <br/>
 
@@ -81,7 +81,7 @@ motto: "Clean code, beautiful UI"
 
 <br/>
 
-### Tools & Environment
+### 도구 & 환경
 
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,firebase,figma&theme=dark" />
 
@@ -119,32 +119,32 @@ motto: "Clean code, beautiful UI"
 <br/>
 
 <details>
-<summary><b>🏆 Career & Achievements</b></summary>
+<summary><b>🏆 경력 & 수상 내역</b></summary>
 <br/>
 
 <div align="center">
 
-### Education
+### 교육
 
-<img src="https://img.shields.io/badge/Elice_Track-Flutter_App_Development-6B4FBB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/엘리스트랙-Flutter_앱개발-6B4FBB?style=for-the-badge" />
 
-`2024.07 ~ 2024.12` | **Top Honors Graduate**
+`2024.07 ~ 2024.12` | **최우수 수료**
 
 <br/>
 
-### Certification
+### 자격증
 
 <img src="https://img.shields.io/badge/정보처리기능사-2019.12-2F80ED?style=for-the-badge" />
 
 <br/>
 
-### Awards
+### 수상
 
-| Award | Place |
+| 수상 내역 | 결과 |
 |:---:|:---:|
-| Elice Flutter Track - 2nd Project | **1st Place** |
-| Elice Flutter Track - Final Project | **Grand Prize (1st)** |
-| Elice Flutter Track - Top Education | **1st Place** |
+| 엘리스 Flutter 트랙 1기 2차 프로젝트 | **최우수상 (1등)** |
+| 엘리스 Flutter 트랙 1기 최종 프로젝트 | **대상 (1등)** |
+| 엘리스 Flutter 트랙 1기 교육 이수 | **최우수상 (1등)** |
 
 </div>
 
