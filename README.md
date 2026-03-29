@@ -98,26 +98,16 @@ motto: "깔끔한 코드, 아름다운 UI"
 <div align="center">
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jeonghyeon-jos-projects.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f7&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bf91f7&text_color=c9d1d9&ring_color=58a6ff" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jeonghyeon-jos-projects.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=JeongHyeon-Jo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="700"/>
 
 <br/>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JeongHyeon-Jo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-  <img src="https://streak-stats.demolab.com?user=JeongHyeon-Jo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=JeongHyeon-Jo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeongHyeon-Jo&bg_color=0d1117&color=58a6ff&line=bf91f7&point=f778ba&area=true&area_color=58a6ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeongHyeon-Jo&theme=github_dark" width="700"/>
 
 </div>
 
