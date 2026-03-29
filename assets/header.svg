@@ -1,0 +1,54 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#bf91f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f778ba;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Decorative dots -->
+  <circle cx="50" cy="30" r="2" fill="#58a6ff" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="40" r="1.5" fill="#bf91f7" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="25" r="2" fill="#f778ba" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="170" r="1.5" fill="#58a6ff" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;0.85;0.35" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="175" r="2" fill="#bf91f7" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.75;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Accent line -->
+  <rect x="100" y="140" width="600" height="2" fill="url(#accent)" rx="1" opacity="0.6" filter="url(#glow)"/>
+
+  <!-- Code brackets decoration -->
+  <text x="80" y="105" font-family="'SF Mono', 'Fira Code', monospace" font-size="40" fill="#58a6ff" opacity="0.25" font-weight="300">&lt;</text>
+  <text x="700" y="105" font-family="'SF Mono', 'Fira Code', monospace" font-size="40" fill="#f778ba" opacity="0.25" font-weight="300">/&gt;</text>
+
+  <!-- Main text -->
+  <text x="400" y="80" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="32" fill="url(#accent)" font-weight="700" filter="url(#glow)">JeongHyeon Jo</text>
+  <text x="400" y="120" text-anchor="middle" font-family="'SF Mono', 'Fira Code', monospace" font-size="16" fill="#8b949e" font-weight="400">Flutter &amp; Mobile App Developer</text>
+
+  <!-- Bottom tagline -->
+  <text x="400" y="170" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#58a6ff" opacity="0.7">Building beautiful cross-platform experiences</text>
+</svg>
