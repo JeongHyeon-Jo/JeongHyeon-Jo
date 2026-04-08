@@ -45,7 +45,7 @@ motto: "깔끔한 코드, 아름다운 UI"
 <tr>
 <td align="center" width="50%">
 
-### 주력 기술
+### Mobile
 
 <br/>
 
@@ -78,7 +78,7 @@ motto: "깔끔한 코드, 아름다운 UI"
 <tr>
 <td align="center" colspan="2">
 
-### 사용 가능
+### Additional
 
 <br/>
 
@@ -110,45 +110,21 @@ motto: "깔끔한 코드, 아름다운 UI"
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> 프로젝트
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> 운영 중인 서비스
 
 <div align="center">
 <br/>
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-### <a href="https://www.aimoeum.com">AI 모음 (aimoeum.com)</a>
+<a href="https://www.aimoeum.com"><img src="https://img.shields.io/badge/AI_모음-aimoeum.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <br/>
+<br/>
 
-다양한 AI 도구의 기능과 특징을 한국어로 소개하는 **큐레이션 웹사이트**
-
-271개 이상의 AI 도구를 카테고리별로 정리하고, 검색·필터·추천 기능을 제공합니다.
+271개 이상의 AI 도구를 한국어로 소개하는 큐레이션 서비스를 직접 개발하고 운영하고 있습니다.
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,vercel&theme=dark" />
-
-<br/>
-<br/>
-
-![Next.js 14](https://img.shields.io/badge/Next.js_14-SSR/SSG-000000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-배포-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<br/>
-
-`SEO 최적화` · `동적 sitemap` · `RLS 보안` · `AdSense 수익화` · `서버/클라이언트 컴포넌트 분리`
-
-<br/>
-
-<a href="https://www.aimoeum.com"><img src="https://img.shields.io/badge/사이트_방문하기-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
