@@ -115,16 +115,9 @@ motto: "깔끔한 코드, 아름다운 UI"
 <div align="center">
 <br/>
 
-<a href="https://www.aimoeum.com"><img src="https://img.shields.io/badge/AI_모음-aimoeum.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-<br/>
-<br/>
-
-271개 이상의 AI 도구를 한국어로 소개하는 큐레이션 서비스를 직접 개발하고 운영하고 있습니다.
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,vercel&theme=dark" />
+<a href="https://www.aimoeum.com">
+  <img src="assets/aimoeum-card.svg" width="700"/>
+</a>
 
 </div>
 
