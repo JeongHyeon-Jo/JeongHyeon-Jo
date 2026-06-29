@@ -1,0 +1,39 @@
+<svg width="900" height="172" viewBox="0 0 900 172" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-about" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent-about" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bf91f7"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="170" rx="16" fill="url(#bg-about)" stroke="#30363d" stroke-width="1"/>
+  <rect x="1" y="1" width="898" height="4" rx="2" fill="url(#accent-about)"/>
+
+  <!-- left: profile -->
+  <text x="40" y="44" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#58a6ff" font-weight="600">// About Me</text>
+
+  <text x="40" y="82" font-family="'SF Mono','Fira Code',monospace" font-size="14" fill="#bf91f7">name</text>
+  <text x="150" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#f0f6fc" font-weight="600">조정현 (JeongHyeon Jo)</text>
+
+  <text x="40" y="114" font-family="'SF Mono','Fira Code',monospace" font-size="14" fill="#bf91f7">role</text>
+  <text x="150" y="114" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#c9d1d9">Flutter &amp; Mobile App Developer</text>
+
+  <text x="40" y="146" font-family="'SF Mono','Fira Code',monospace" font-size="14" fill="#bf91f7">edu</text>
+  <text x="150" y="146" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#c9d1d9">엘리스트랙 Flutter 앱개발 <tspan fill="#8b949e">(최우수 수료)</tspan></text>
+
+  <!-- divider -->
+  <rect x="560" y="34" width="1" height="104" fill="#30363d"/>
+
+  <!-- right: now -->
+  <text x="596" y="44" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#58a6ff" font-weight="600">// Now</text>
+
+  <circle cx="601" cy="84" r="4" fill="#58a6ff"/>
+  <text x="616" y="89" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#c9d1d9">개인 앱 <tspan fill="#f0f6fc" font-weight="700">3종</tspan> 운영·개발</text>
+
+  <circle cx="601" cy="120" r="4" fill="#f778ba"/>
+  <text x="616" y="125" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#c9d1d9"><tspan fill="#f0f6fc" font-weight="700">aimoeum.com</tspan> 운영</text>
+</svg>

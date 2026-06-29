@@ -1,0 +1,50 @@
+<svg width="900" height="296" viewBox="0 0 900 296" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-aw" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent-aw" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#bf91f7"/>
+      <stop offset="100%" stop-color="#f778ba"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="294" rx="16" fill="url(#bg-aw)" stroke="#30363d" stroke-width="1"/>
+  <rect x="1" y="1" width="898" height="4" rx="2" fill="url(#accent-aw)"/>
+
+  <text x="40" y="44" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#58a6ff" font-weight="600">// 경력 &amp; 수상 내역</text>
+
+  <!-- 교육 -->
+  <text x="40" y="84" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#bf91f7" font-weight="600">교육</text>
+  <rect x="110" y="68" width="186" height="24" rx="6" fill="#6b4fbb" opacity="0.18"/>
+  <rect x="110" y="68" width="186" height="24" rx="6" fill="none" stroke="#6b4fbb" stroke-width="1"/>
+  <text x="203" y="84" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#d2c4f5" font-weight="600">엘리스트랙 · Flutter 앱개발</text>
+  <text x="312" y="84" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#8b949e">2024.07 ~ 2024.12</text>
+  <text x="452" y="84" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#f0f6fc" font-weight="700">· 최우수 수료</text>
+
+  <!-- 자격증 -->
+  <text x="40" y="124" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#bf91f7" font-weight="600">자격증</text>
+  <rect x="110" y="108" width="124" height="24" rx="6" fill="#2f80ed" opacity="0.18"/>
+  <rect x="110" y="108" width="124" height="24" rx="6" fill="none" stroke="#2f80ed" stroke-width="1"/>
+  <text x="172" y="124" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5" fill="#a9c8f5" font-weight="600">정보처리기능사</text>
+  <text x="250" y="124" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#8b949e">2019.12</text>
+
+  <!-- divider -->
+  <rect x="40" y="146" width="820" height="1" fill="#30363d"/>
+
+  <!-- 수상 -->
+  <text x="40" y="178" font-family="'SF Mono','Fira Code',monospace" font-size="13" fill="#bf91f7" font-weight="600">수상</text>
+
+  <circle cx="116" cy="205" r="3" fill="#58a6ff"/>
+  <text x="130" y="210" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#c9d1d9">엘리스 Flutter 트랙 1기 · 2차 프로젝트</text>
+  <text x="860" y="210" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#f778ba" font-weight="700">최우수상 (1등)</text>
+
+  <circle cx="116" cy="237" r="3" fill="#bf91f7"/>
+  <text x="130" y="242" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#c9d1d9">엘리스 Flutter 트랙 1기 · 최종 프로젝트</text>
+  <text x="860" y="242" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#ffd33d" font-weight="700">대상 (1등)</text>
+
+  <circle cx="116" cy="269" r="3" fill="#f778ba"/>
+  <text x="130" y="274" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#c9d1d9">엘리스 Flutter 트랙 1기 · 교육 이수</text>
+  <text x="860" y="274" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#f778ba" font-weight="700">최우수상 (1등)</text>
+</svg>
