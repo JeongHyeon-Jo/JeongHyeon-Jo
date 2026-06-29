@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="top" width="56%">
+<td valign="top" width="54%">
 
 ```yaml
 name:       조정현 (JeongHyeon Jo)
@@ -43,17 +43,17 @@ motto:      "깔끔한 코드, 아름다운 UI"
 ```
 
 </td>
-<td valign="top" width="44%">
+<td valign="top" width="46%">
 
 <br/>
 
-🔭 &nbsp;개인 앱 **3종** 운영·개발 중
+🔭 &nbsp; 개인 앱 **3종** 운영·개발
 <br/>
-🌱 &nbsp;디테일 살린 **UI/UX** 탐구
+🌱 &nbsp; 디테일 살린 **UI/UX**
 <br/>
-🌐 &nbsp;웹서비스 **aimoeum.com** 운영
+🌐 &nbsp; **aimoeum.com** 운영
 <br/>
-🏆 &nbsp;엘리스 Flutter 트랙 **대상**
+🏆 &nbsp; Flutter 트랙 **대상** 수상
 
 </td>
 </tr>
@@ -89,18 +89,23 @@ motto:      "깔끔한 코드, 아름다운 UI"
 <div align="center">
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=bf91f7&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165"/>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=bf91f7&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="100%"/>
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=JeongHyeon-Jo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
 
 <br/>
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=JeongHyeon-Jo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=f778ba&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="165"/>
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeongHyeon-Jo&bg_color=0d1117&color=58a6ff&line=bf91f7&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeongHyeon-Jo&bg_color=0d1117&color=58a6ff&line=bf91f7&point=f778ba&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
