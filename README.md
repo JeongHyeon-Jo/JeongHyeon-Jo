@@ -30,8 +30,8 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=bf91f7&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6&card_width=480" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JeongHyeon-Jo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=bf91f7&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff&card_width=480" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHyeon-Jo&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=480" width="49%"/>
 
 <br/>
 <br/>
