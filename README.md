@@ -42,7 +42,7 @@ motto: "깔끔한 코드, 아름다운 UI"
 <table>
 <tr>
 <td align="center" width="120">
-<img src="assets/appicons/kkumi_icon_512.png" width="90"/>
+<img src="assets/appicons/kkumi_icon.png" width="90"/>
 </td>
 <td>
 
@@ -61,7 +61,7 @@ motto: "깔끔한 코드, 아름다운 UI"
 <table>
 <tr>
 <td align="center" width="120">
-<img src="assets/appicons/Abeul_Flow_Icon.png" width="90"/>
+<img src="assets/appicons/Abeul_Flow_icon.png" width="90"/>
 </td>
 <td>
 
@@ -80,7 +80,7 @@ motto: "깔끔한 코드, 아름다운 UI"
 <table>
 <tr>
 <td align="center" width="120">
-<img src="assets/appicons/AbeulPlannerLogo.png" width="90"/>
+<img src="assets/appicons/AbeulPlanner_icon.png" width="90"/>
 </td>
 <td>
 
