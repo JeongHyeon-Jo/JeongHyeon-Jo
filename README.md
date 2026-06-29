@@ -35,62 +35,22 @@ motto: "깔끔한 코드, 아름다운 UI"
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> 기술 스택
-
-<div align="center">
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> 운영 중인 서비스
 
 <br/>
 
 <table>
 <tr>
-<td align="center" width="50%">
-
-### Mobile
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
-
-<br/>
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
+<td align="center" width="120">
+<img src="assets/appicons/kkumi_icon_512.png" width="90"/>
 </td>
-<td align="center" width="50%">
+<td>
 
-### Web
+### 꾸미 <sub>KKUMI</sub>
 
-<br/>
+매일 밤 꿈을 기록하고 AI 해몽까지 받는 꿈 일기 앱
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase&theme=dark" />
-
-<br/>
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-Intermediate-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-### Additional
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java&theme=dark" />
-
-<br/>
-<br/>
-
-![C](https://img.shields.io/badge/C-Familiar-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Familiar-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Familiar-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Familiar-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://img.shields.io/badge/출시_준비_중-A78BFA?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -98,22 +58,45 @@ motto: "깔끔한 코드, 아름다운 UI"
 
 <br/>
 
-### 도구 & 환경
+<table>
+<tr>
+<td align="center" width="120">
+<img src="assets/appicons/Abeul_Flow_Icon.png" width="90"/>
+</td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,firebase,figma&theme=dark" />
+### 아블 가계부 <sub>Abeul Flow</sub>
 
-</div>
+반복 지출까지 자동으로 정리해주는 가계부
+
+<a href="https://play.google.com/store/apps/details?id=com.abeul_flow.abeul_flow"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="assets/divider.svg" width="100%"/>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="assets/appicons/AbeulPlannerLogo.png" width="90"/>
+</td>
+<td>
+
+### 아블 플래너 <sub>Abeul Planner</sub>
+
+5가지 방식으로 한 번에 보는 일정 플래너
+
+<a href="https://play.google.com/store/apps/details?id=com.abeul_planner.abeul_planner"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> 운영 중인 서비스
 
 <div align="center">
-<br/>
 
 <a href="https://www.aimoeum.com">
   <img src="assets/aimoeum-card.svg" width="700"/>
