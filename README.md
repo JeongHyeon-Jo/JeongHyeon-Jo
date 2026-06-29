@@ -60,11 +60,11 @@ const abeul = {
 <div align="center">
 <br/>
 
-<img src="assets/cards/kkumi-card.svg" width="49%"/>&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.abeul_flow.abeul_flow"><img src="assets/cards/flow-card.svg" width="49%"/></a>
+<img src="assets/cards/kkumi-card.svg" width="48%"/>
+<a href="https://play.google.com/store/apps/details?id=com.abeul_flow.abeul_flow"><img src="assets/cards/flow-card.svg" width="48%"/></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.abeul_planner.abeul_planner"><img src="assets/cards/planner-card.svg" width="49%"/></a>&nbsp;
-<a href="https://www.aimoeum.com"><img src="assets/cards/aimoeum-card2.svg" width="49%"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.abeul_planner.abeul_planner"><img src="assets/cards/planner-card.svg" width="48%"/></a>
+<a href="https://www.aimoeum.com"><img src="assets/cards/aimoeum-card2.svg" width="48%"/></a>
 
 </div>
 
