@@ -1,0 +1,24 @@
+<svg width="440" height="180" viewBox="0 0 440 180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bg-aimoeum" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent-aimoeum" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bf91f7"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="178" rx="16" fill="url(#bg-aimoeum)" stroke="#30363d" stroke-width="1"/>
+  <rect x="1" y="1" width="438" height="4" rx="2" fill="url(#accent-aimoeum)"/>
+  <rect x="24" y="48" width="84" height="84" rx="20" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="66" y="104" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="800" fill="url(#accent-aimoeum)">AI</text>
+  <text x="124" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">AI 모음</text>
+  <text x="124" y="82" font-family="'SF Mono', 'Fira Code', monospace" font-size="11" fill="#58a6ff" letter-spacing="0.5">AIMOEUM.COM</text>
+  <text x="124" y="106" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">한국어로 만나는 AI 도구 큐레이션</text>
+  <text x="124" y="124" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">웹서비스 · 271+ Tools · 6 Categories</text>
+  <rect x="124" y="138" width="152" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="143" cy="153" r="3.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="156" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#f0f6fc" font-weight="600">aimoeum.com</text>
+  <text x="264" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#58a6ff">&#8594;</text>
+</svg>
