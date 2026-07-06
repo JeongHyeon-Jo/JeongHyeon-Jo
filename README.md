@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-<img src="assets/cards/kkumi-card.svg" width="49%"/>
+<a href="https://apps.apple.com/app/id6784973786"><img src="assets/cards/kkumi-card.svg" width="49%"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.abeul_flow.abeul_flow"><img src="assets/cards/flow-card.svg" width="49%"/></a>
 
 <a href="https://play.google.com/store/apps/details?id=com.abeul_planner.abeul_planner"><img src="assets/cards/planner-card.svg" width="49%"/></a>
