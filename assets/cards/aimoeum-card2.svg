@@ -8,10 +8,9 @@
       <stop offset="0%" stop-color="#58a6ff"/>
       <stop offset="100%" stop-color="#bf91f7"/>
     </linearGradient>
-    <clipPath id="cardclip"><rect x="1" y="1" width="438" height="178" rx="16"/></clipPath>
   </defs>
   <rect x="1" y="1" width="438" height="178" rx="16" fill="url(#bg-aimoeum)" stroke="#30363d" stroke-width="1"/>
-  <rect x="1" y="1" width="438" height="4" clip-path="url(#cardclip)" fill="url(#accent-aimoeum)"/>
+  <path d="M2.5 17 A14.5 14.5 0 0 1 17 2.5 L423 2.5 A14.5 14.5 0 0 1 437.5 17" fill="none" stroke="url(#accent-aimoeum)" stroke-width="3.5" stroke-linecap="round"/>
   <rect x="24" y="48" width="84" height="84" rx="20" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
   <text x="66" y="104" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="800" fill="url(#accent-aimoeum)">AI</text>
   <text x="124" y="66" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">AI 모음<tspan dx="9" font-family="'SF Mono', 'Fira Code', monospace" font-size="20" font-weight="500" fill="#58a6ff">AIMOEUM.COM</tspan></text>
