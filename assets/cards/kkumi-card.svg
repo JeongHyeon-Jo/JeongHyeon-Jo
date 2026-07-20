@@ -17,7 +17,10 @@
   <text x="124" y="66" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">꾸미<tspan dx="9" font-family="'SF Mono', 'Fira Code', monospace" font-size="20" font-weight="500" fill="#a78bfa">KKUMI</tspan></text>
   <text x="124" y="98" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">매일 밤 꿈을 기록하면 AI가</text>
   <text x="124" y="117" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">상징과 감정을 해석해주는 꿈 일기 앱</text>
-  <rect x="124" y="138" width="132" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <path transform="translate(139,145) scale(0.62)" fill="#f0f6fc" d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.51 4.09l.01-.01M12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25"/>
-  <text x="160" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#f0f6fc" font-weight="600">App Store</text>
+  <rect x="124" y="138" width="112" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <path transform="translate(136,146) scale(0.55)" fill="#f0f6fc" d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.51 4.09l.01-.01M12.03 7.25c-.15-2.23 1.66-4.07 3.74-4.25.29 2.58-2.34 4.5-3.74 4.25"/>
+  <text x="152" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#f0f6fc" font-weight="600">App Store</text>
+  <rect x="244" y="138" width="120" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <polygon points="257,146 257,160 269,153" fill="#3fb950"/>
+  <text x="275" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#f0f6fc" font-weight="600">Google Play</text>
 </svg>
