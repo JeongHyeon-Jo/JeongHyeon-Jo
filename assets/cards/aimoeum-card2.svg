@@ -16,7 +16,7 @@
   <text x="124" y="66" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">AI 모음<tspan dx="9" font-family="'SF Mono', 'Fira Code', monospace" font-size="20" font-weight="500" fill="#58a6ff">AIMOEUM.COM</tspan></text>
   <text x="124" y="98" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">한국어로 만나는 AI 도구 큐레이션</text>
   <text x="124" y="117" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">웹서비스 · 271+ Tools · 6 Categories</text>
-  <rect x="124" y="138" width="150" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <circle cx="143" cy="153" r="3.5" fill="#3fb950"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="156" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#f0f6fc" font-weight="600">aimoeum.com</text>
+  <rect x="124" y="138" width="140" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="139" cy="153" r="4" fill="#3fb950"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="158" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#f0f6fc" font-weight="600">aimoeum.com</text>
 </svg>

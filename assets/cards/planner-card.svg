@@ -17,7 +17,7 @@
   <text x="124" y="66" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#f0f6fc" font-weight="700">아블 플래너<tspan dx="9" font-family="'SF Mono', 'Fira Code', monospace" font-size="20" font-weight="500" fill="#f87171">ABEUL PLANNER</tspan></text>
   <text x="124" y="98" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">일상·주간·달력·종합·시간표</text>
   <text x="124" y="117" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#8b949e">5가지 방식의 올인원 일정 플래너</text>
-  <rect x="124" y="138" width="150" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-  <polygon points="141,146 141,160 153,153" fill="#3fb950"/>
-  <text x="161" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#f0f6fc" font-weight="600">GOOGLE PLAY</text>
+  <rect x="124" y="138" width="140" height="30" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <polygon points="133,146 133,160 145,153" fill="#3fb950"/>
+  <text x="158" y="157" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#f0f6fc" font-weight="600">Google Play</text>
 </svg>
